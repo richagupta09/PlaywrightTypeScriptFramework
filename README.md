@@ -117,7 +117,7 @@ Workflow file:
 ---
 
 ## Author
-**Richa — QA Automation Engineer / SDET**  
+**Richa — Test Automation Engineer / SDET**  
 Playwright | TypeScript | CI/CD | Automation Frameworks
 "# PlaywrightTypeScripteFramework" 
 "# PlaywrightTypeScripteFramework" 
