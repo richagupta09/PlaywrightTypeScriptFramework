@@ -7,10 +7,10 @@ test-results/
 allure-report/
 allure-results/
 
-# Environment
+# Environment variables
 .env
 .env.*
 
-# OS
+# OS files
 .DS_Store
 Thumbs.db
