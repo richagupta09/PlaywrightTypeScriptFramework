@@ -1,6 +1,6 @@
 # Saucedemo Playwright Automation Framework
 
-![Playwright CI](https://github.com/richagupta09/PlaywrightTypeScriptFramework/actions/workflows/playwright-ci.yml/badge.svg)
+![Playwright CI](https://github.com/richagupta09/PlaywrightTypeScriptFramework/actions/workflows/playwright.yml/badge.svg)
 
 A clean, scalable **Playwright + TypeScript** automation framework using the Page Object Model (POM), fixtures, reusable utilities, API tests, and GitHub Actions CI. Built to mirror an enterprise-grade framework structure.
 
